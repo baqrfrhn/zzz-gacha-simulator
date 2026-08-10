@@ -4,7 +4,7 @@ A desktop app that simulates pulling on Zenless Zone Zero banners — with both 
 
 ## What it does
 
-- Simulates **Agent banners**, **W-Engine banners**, or a **combo** (Agent → W-Engine) in one shot.
+- Simulates **Agent banners**, **W-Engine banners**, or a **combo** (Agent -> W-Engine) in one shot.
 - Computes the full **probability mass function** analytically using the pity/ramp system, then overlays the Monte Carlo results on top.
 - Outputs mean, median, and variance for total pulls needed — both analytic and simulated.
 - Interactive GUI so you can tweak parameters (number of copies, starting pity, guarantee status, etc.) and re-run instantly.
