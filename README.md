@@ -94,7 +94,6 @@ zzz-gacha-simulator/
 │       └── stats_calculator.cpp
 ├── resources/
 │   ├── Zenless_Zone_Zero_logo.ico / .png   # window icon
-│   ├── rabbit.png
 │   ├── resource.rc          # embeds the .ico on Windows
 │   └── License.txt
 ├── LICENSE
